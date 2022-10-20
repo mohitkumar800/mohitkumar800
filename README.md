@@ -15,4 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitkumar800&show_icons=true&locale=en&layout=compact" alt="mohitkumar800" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumar800&" alt="mohitkumar800" /></p>
-<p>[![@mohitkumar001's Holopin board](https://holopin.me/mohitkumar001)](https://holopin.io/@mohitkumar001)</p>
+[![@mohitkumar001's Holopin board](https://holopin.me/mohitkumar001)](https://holopin.io/@mohitkumar001)
